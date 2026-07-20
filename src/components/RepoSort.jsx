@@ -15,7 +15,7 @@ function RepoSort({ sortOption, setSortOption }){
         <div className="relative">
         <button
     className="flex items-center gap-2 px-4 py-2 rounded-lg bg-slate-300 text-white hover:bg-slate-400"
-    onClick={()=>setOpen(!open)}
+    onClick={()=>setOpen(prev=>!prev)}
   >
     <FilterListAltIcon/>
 

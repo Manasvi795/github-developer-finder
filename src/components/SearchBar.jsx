@@ -4,7 +4,7 @@ import {useNavigate} from "react-router-dom";
 function SearchBar() {
 
   const [username, setUsername] = useState("");
-  console.log("current state:",username);
+  // console.log("current state:",username);
 
   const navigate=useNavigate();
 
