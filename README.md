@@ -53,18 +53,6 @@ GET /users/{username}/repos
 
 ---
 
-## 🌟 Future Improvements
-
-- Compare two GitHub developers
-- Repository pagination
-- Repository language filter
-- Dark/Light mode
-- Contribution graph
-- Repository statistics
-- Recent search history
-
----
-
 ## 👩‍💻 Author
 
 **Manasvi**
