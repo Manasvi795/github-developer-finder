@@ -2,6 +2,10 @@
 
 A React-based web application that allows users to search for GitHub developers, view their profiles, explore repositories, search repositories by name, sort repositories, and save favorite developers locally.
 
+## 🚀 Live Demo
+
+https://github-developer-finder.vercel.app/
+
 ## 🚀 Features
 
 - 🔍 Search GitHub users by username
